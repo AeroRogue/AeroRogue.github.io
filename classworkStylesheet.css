@@ -4,6 +4,7 @@
 
 .header {
 	border: none;
+	text-align: center;
 }
 
 .topic1 {
@@ -27,5 +28,9 @@
 .topic4 {
 	width: 25%;
 	float: left;
+	border: none;
+}
+
+.footer {
 	border: none;
 }
